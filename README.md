@@ -1,4 +1,4 @@
-# 🔒 SecurePDF-RSA-DSA
+# SecurePDF-RSA-DSA
 
 **Sistem Enkripsi Asimetris (RSA) dan Tanda Tangan Digital (DSA) untuk Dokumen Rahasia**
 
@@ -8,7 +8,7 @@ Dibangun dengan antarmuka grafis (GUI) menggunakan **Tkinter** dan pustaka kript
 
 ---
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 Aplikasi ini menjamin dua aspek keamanan informasi utama:
 
@@ -17,7 +17,7 @@ Aplikasi ini menjamin dua aspek keamanan informasi utama:
 
 ---
 
-## 🛠️ Persyaratan Sistem & Instalasi
+## Persyaratan Sistem & Instalasi
 
 ### Prasyarat
 * **Python 3.x**
